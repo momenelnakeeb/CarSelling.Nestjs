@@ -21,10 +21,10 @@
     "test:e2e": "cross-env NODE_ENV=test jest --config ./test/jest-e2e.json --maxWorkers=1"
   },
   "dependencies": {
-    "@nestjs/common": "^7.6.15",
+    "@nestjs/common": "^7.6.18",
     "@nestjs/config": "^0.6.3",
-    "@nestjs/core": "^7.6.15",
-    "@nestjs/platform-express": "^7.6.15",
+    "@nestjs/core": "^7.6.18",
+    "@nestjs/platform-express": "^7.6.18",
     "@nestjs/typeorm": "^7.1.5",
     "@types/cookie-session": "^2.0.42",
     "class-transformer": "^0.4.0",
